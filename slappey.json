@@ -1,0 +1,7 @@
+{
+  "name": "tutorial",
+  "language": "javascript",
+  "manager": "npm",
+  "token": "YOUR TOKEN",
+  "prefix": "YOUR PREFIX"
+}
